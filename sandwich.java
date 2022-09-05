@@ -118,7 +118,7 @@ public class sandwich {
                     System.out.println("Error! number must be greater than 0");
                                     }
             }
-      
+      // demo comment 
         if(vegC==1){
                     price+=.05;
                     veggieN="red onions, ";
