@@ -1,0 +1,20 @@
+Aug 28, 2022, 10:16:40 PM mo Wheat Bread,   Roast Beef  $4.30
+
+Aug 29, 2022, 11:07:54 AM mo Wheat Bread,   Roast Beef  $3.10
+
+Aug 30, 2022, 2:13:31 AM mohraiel Wheat Bread,  lettuce,  Roasted Chicken Breast  $2.90
+
+Aug 30, 2022, 2:23:56 AM mohraiel Wheat Bread,  pickles,  Roasted Chicken Breast  $2.80
+
+Sep 5, 2022, 1:29:54 AM mo Wheat Bread,  lettuce,  Roast Beef  $4.50
+
+Sep 5, 2022, 1:32:27 AM mo Wheat Bread,  lettuce,  Roasted Chicken Breast  $2.90
+
+Sep 5, 2022, 1:35:40 AM mo Wheat Bread,  lettuce,  Roast Beef  $4.50
+
+Sep 5, 2022, 1:44:06 AM mo Wheat Bread,  green peppers,  Roasted Chicken Breast  $2.95
+
+Sep 5, 2022, 1:46:37 AM mo Wheat Bread,  lettuce,  Roast Beef  $4.50
+
+Sep 5, 2022, 1:53:43 AM mo Wheat Bread,  tomatoes,  Roasted Chicken Breast  $3.00
+
